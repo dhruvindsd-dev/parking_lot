@@ -32,7 +32,7 @@ To Prevent `typescript` errors with `UI Kitten`, use `yarn`
 
 ```bash
   yarn install
-  cd my-project
+  cd parking_lot
 ```
 [refer this for more info on this issue](https://github.com/facebook/react/issues/24304)
 
@@ -41,13 +41,13 @@ To Prevent `typescript` errors with `UI Kitten`, use `yarn`
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/dhruvindsd-dev/parking_lot
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd parking_lot
 ```
 
 Install dependencies
