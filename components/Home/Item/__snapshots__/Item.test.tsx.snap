@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Parking Lot Component Renders Correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "flex": 1,
+      "maxWidth": "25%",
+      "opacity": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#5781FF",
+        "borderColor": "#5781FF",
+        "borderRadius": 10,
+        "borderWidth": 2,
+        "flex": 1,
+        "height": "100%",
+        "justifyContent": "center",
+        "margin": 5,
+        "minHeight": 90,
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      1
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 10,
+        }
+      }
+    >
+      Mh-101
+    </Text>
+  </View>
+</View>
+`;

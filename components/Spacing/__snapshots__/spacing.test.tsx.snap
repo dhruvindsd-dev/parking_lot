@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spacing 1 Renders 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 10,
+    }
+  }
+/>
+`;
+
+exports[`Spacing 2 Renders 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 15,
+    }
+  }
+/>
+`;
+
+exports[`Spacing 3 Renders 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 25,
+    }
+  }
+/>
+`;
